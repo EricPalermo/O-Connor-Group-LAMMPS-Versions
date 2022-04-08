@@ -1,3 +1,6 @@
 [submodule "lammps"]
 	path = lammps
 	url = https://github.com/lammps/lammps.git
+[submodule "RHEO"]
+	path = RHEO
+	url = git@github.com:ThomasCOConnor/RHEO.git
