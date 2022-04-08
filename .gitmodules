@@ -1,3 +1,6 @@
 [submodule "lammps"]
 	path = lammps
 	url = https://github.com/lammps/lammps.git
+[submodule "USER-UEFEX"]
+	path = USER-UEFEX
+	url = https://github.com/t-murash/USER-UEFEX.git
